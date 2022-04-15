@@ -1,0 +1,55 @@
+/*this will be applied to the about and index pages*/
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.paddingSpace{
+    padding: 30px;
+}
+
+li{
+    padding-bottom: 10px;
+}
+
+.italic{
+    font-style: italic;
+}
+
+p{
+    color: lightslategray;
+}
+
+.bold{
+    font-style: bold;
+}
+
+.pgLink{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #7393B3;
+}
+
+.linkColor{
+    color: blue;
+}
+
+.subHeadshot{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: darkslategrey;
+    padding-left: 50px;
+    padding-top: 15px;
+}
+
+.workingPadding{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.consideration{
+    padding-left: 100px;
+}
+

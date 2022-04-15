@@ -1,0 +1,75 @@
+/*Comment crap*/
+
+body{
+    background-color:grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.headCenter{
+    text-align: center;
+}
+
+.tableautitlefont{
+    font-family: serif;
+    color: blue;
+}
+
+.tabBg{
+    background-image: url('../images/tabBackground.jpg');
+    background-size: 1000px;
+}
+
+.common{
+    background-color: #cccccc;
+    border: solid 2px white;
+    opacity: 80%;
+    position: absolute;
+}
+
+.header{
+    top:5px;
+    left: 5px;
+    right: 5px;
+    height: 90px;
+}
+
+.linkTopRight{
+    text-align: right;
+}
+
+.linkcolortab{
+    color: blue;
+}
+
+.mainbody{
+    height: 3700px;
+    top: 114px;
+    bottom: 84px;
+    left: 10px;
+    right: 10px;
+}
+
+.footer{
+    bottom: 5px;
+    height: 65px;
+    left: 5px;
+    right: 5px;
+    top: 3835px;
+}
+
+.TabLeft{
+    padding-left: 100px;
+}
+
+.TabRight{
+    padding-right: 100px;
+}
+
+.footerFont{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*.tableauSize{
+    height: 300px;
+    width: 1100px;
+}*/
